@@ -71,13 +71,4 @@ as this diƯerence indicates that the pixel in the original message was white. A
 processing all pixels, the function returns the decrypted image, which represents the
 reconstructed message. This process adheres to the principles of visual cryptography,
 where the secret and ciphered images are combined to reveal the hidden message.
-Encryption Methods: Decryption Methods:
-Original Image
- When we divide it according to the pixel values of the image, the resulting Secret Image 1
-and Secret Image 2 are embedded below.
 
- Secret Image 1 Secret Image 2
- The image below is the decrypted output obtained by combining the two images we
-previously separated.
-
- Decrypted Image
